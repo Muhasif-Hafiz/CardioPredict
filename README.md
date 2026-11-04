@@ -1,5 +1,9 @@
 # CardioPredict – Heart Disease Prediction System
 
+
+<img width="772" height="746" alt="image" src="https://github.com/user-attachments/assets/1aff5f49-5a26-491e-b164-111761df3663" />
+
+
 ## Overview
 
 CardioPredict is a machine learning-based project designed to predict the likelihood of heart disease using patient health-related attributes.
